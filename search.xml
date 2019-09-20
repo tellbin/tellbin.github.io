@@ -4,6 +4,29 @@
   
     
     <entry>
+      <title>开源软件记录</title>
+      <link href="/2019/09/20/990237358.html"/>
+      <url>/2019/09/20/990237358.html</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th>名称</th><th>描述</th><th>地址</th></tr></thead><tbody><tr><td>chrome-devtools-java-client</td><td>Chrome DevTools Java Client</td><td><a href="https://github.com/kklisura/chrome-devtools-java-client" target="_blank" rel="noopener">github</a></td></tr><tr><td>yapi</td><td>YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台</td><td><a href="https://github.com/YMFE/yapi" target="_blank" rel="noopener">github</a></td></tr><tr><td>sweetalert2</td><td>开源前端弹出框插件</td><td><a href="https://github.com/sweetalert2/sweetalert2" target="_blank" rel="noopener">github</a></td></tr><tr><td>OrgChart</td><td>优秀的组织架构图控件</td><td><a href="https://github.com/dabeng/OrgChart" target="_blank" rel="noopener">github</a></td></tr></tbody></table><a id="more"></a><p>Guns|Guns基于Spring Boot2，致力于做更简洁的后台管理系统。包含系统管理，代码生成，多数据库适配，SSO单点登录，工作流，短信，邮件发送，OAuth2登录，任务调度，持续集成，docker部署等功。支持Spring Cloud Alibaba微服务。社区活跃，版本迭代快，加群免费技术支持。|<a href="https://gitee.com/stylefeng/guns" target="_blank" rel="noopener">gitee</a><br>ncmdump|netease cloud music copyright protection file dump|<a href="https://github.com/anonymous5l/ncmdump" target="_blank" rel="noopener">github</a><br>qmcdump|一个简单的QQ音乐解码（qmcflac/qmc0/qmc3 转 flac/mp3）|<a href="https://github.com/MegrezZhu/qmcdump" target="_blank" rel="noopener">github</a><br>frp|frp 是一个可用于内网穿透的高性能的反向代理应用，支持 tcp, udp 协议，为 http 和 https 应用协议提供了额外的能力，且尝试性支持了点对点穿透。|<a href="https://github.com/fatedier/frp" target="_blank" rel="noopener">github</a><br>Streisand|不可描述|<a href="https://github.com/StreisandEffect/streisand" target="_blank" rel="noopener">github</a><br>shadowsocks-windows|不可描述|<a href="https://github.com/shadowsocks/shadowsocks-windows" target="_blank" rel="noopener">github</a><br>navicat-keygen|不可描述|<a href="https://github.com/DoubleLabyrinth/navicat-keygen" target="_blank" rel="noopener">github</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+            <tag> 开源 </tag>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>chrome-devtools</title>
       <link href="/2019/09/19/415693982.html"/>
       <url>/2019/09/19/415693982.html</url>
@@ -121,7 +144,7 @@
       <link href="/2019/05/31/4104122682.html"/>
       <url>/2019/05/31/4104122682.html</url>
       
-        <content type="html"><![CDATA[<h2 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h2><h3 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h3><ul><li><a href="https://www.snipaste.com/" target="_blank" rel="noopener">Snipaste</a></li><li><a href="https://www.portablesoft.org/down/117/" target="_blank" rel="noopener">FSCapture</a></li><li><a href="https://www.cockos.com/licecap/" target="_blank" rel="noopener">LICEcap</a><a id="more"></a><h2 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h2><h3 id="软件-1"><a href="#软件-1" class="headerlink" title="软件"></a>软件</h3></li><li><a href="https://www.portablesoft.org/" target="_blank" rel="noopener">精品绿色便携软件</a></li><li><a href="https://www.iplaysoft.com/" target="_blank" rel="noopener">异次元软件世界</a></li></ul><h3 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h3><ul><li><a href="http://chuangzaoshi.com/icon" target="_blank" rel="noopener">草莓ICON</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<ul><li>软件<ul><li>截图<ul><li><a href="https://www.snipaste.com/" target="_blank" rel="noopener">Snipaste</a></li><li><a href="https://www.portablesoft.org/down/117/" target="_blank" rel="noopener">FSCapture</a></li><li><a href="https://www.cockos.com/licecap/" target="_blank" rel="noopener">LICEcap</a></li></ul></li></ul></li><li>网站<ul><li>软件<ul><li><a href="https://www.portablesoft.org/" target="_blank" rel="noopener">精品绿色便携软件</a></li><li><a href="https://www.iplaysoft.com/" target="_blank" rel="noopener">异次元软件世界</a><a id="more"></a></li></ul></li><li>图标<ul><li><a href="http://chuangzaoshi.com/icon" target="_blank" rel="noopener">草莓 ICON</a></li></ul></li></ul></li></ul>]]></content>
       
       
       
